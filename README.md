@@ -5,7 +5,9 @@
 - 👨‍💻 I'm a passionate **MERN Stack Developer** with a love for building efficient and scalable web applications.  
 - 🤝 Currently collaborating on an exciting **project-based course** and a **research-based course** as part of my University curriculum.  
 - 📱 Exploring the world of **React Native Development** to venture into mobile app development.  
-- 🌱 Always learning and growing in the ever-evolving tech landscape.  
+- 🌱 Always learning and growing in the ever-evolving tech landscape.
+- 📍 Location: Dhaka, Bangladesh
+- 📧 Email: abdullahalraiyan4@gmail.com
 
 
 ### 🌟 What I'm Currently Working On:
