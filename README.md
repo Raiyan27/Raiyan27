@@ -2,18 +2,17 @@
 
 
 # 💫 About Me:
-- 👨‍💻 I'm a passionate **MERN Stack Developer** with a love for building efficient and scalable web applications.  
-- 🤝 Currently collaborating on an exciting **project-based course** and a **research-based course** as part of my University curriculum.  
-- 📱 Exploring the world of **React Native Development** to venture into mobile app development.  
-- 🌱 Always learning and growing in the ever-evolving tech landscape.
-- 📍 Location: Dhaka, Bangladesh
-- 📧 Email: abdullahalraiyan4@gmail.com
-
+- 👨‍💻 I'm a passionate **Software Developer** skilled in **JavaScript (MERN), TypeScript, and Next.js**, with experience building efficient and scalable applications.   
+- 🤖 Deepening my expertise in **Machine Learning, Data Science, and Large Language Models** to create impactful, intelligent solutions.  
+- 🌱 Always learning and growing in the ever-evolving tech landscape.  
+- 📍 Location: Dhaka, Bangladesh  
+- 📧 Email: abdullahalraiyan4@gmail.com  
 
 ### 🌟 What I'm Currently Working On:
-- 🌍 Exploring **Next.js** for building server-rendered React applications.  
-- ✈️ Developing a mobile app to help students manage their courses.  
-- 📚 Learning **TypeScript** to enhance my JavaScript skills.  
+- 🧠 Exploring **Machine Learning, Data Analysis, and AI/LLM-powered projects**.  
+- 📊 Building data-driven tools and experimenting with intelligent systems.  
+- 🌍 Applying full-stack expertise to integrate AI/ML solutions into web applications.  
+
 
 
 ## 🌐 Socials:
